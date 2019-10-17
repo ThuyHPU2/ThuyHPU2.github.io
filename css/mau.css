@@ -1,0 +1,10 @@
+#carouselExampleInterval{
+		width: 900px;
+		margin:0px auto ;
+		height: 500px;
+		border: 2px solid #ccc;
+}
+img {
+	width: 900px;
+	height: 500px;
+}
