@@ -8,3 +8,34 @@ img {
 	width: 900px;
 	height: 500px;
 }
+iframe{
+	padding -left: 10px;
+	padding- top: 20px;
+	border-color: green;
+	width: 300px;
+	height: 200px;
+	position: absolute;
+}
+
+marquee{
+	border- color: : gray;
+}
+video{
+	width: 300px;
+	height: 200px;
+	position: absolute;
+}
+#vd{
+	width: 400px;
+	height: 300px;
+	position: absolute;
+	left: 50%
+	 margin-left: -30px;
+}
+#cv{
+	width: 400px;
+	height: 300px;
+	position: absolute;
+	left: 70%;
+	margin-left: -10px;
+}
